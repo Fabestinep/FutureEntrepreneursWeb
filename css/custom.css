@@ -1,0 +1,15 @@
+:root{
+   --orange: #E8491D;
+}
+
+.navbar-brand-orange {
+   color: var(--orange);
+}
+
+.navbar-brand-white {
+   color: var(--white);
+}
+
+.navbar-custom .nav-item .nav-link {
+   color: var(--white);
+}
